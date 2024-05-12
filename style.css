@@ -3,10 +3,11 @@ html {
     padding-right: 550px; */
     width: 80%;
     margin: auto;
+    background-color: rgb(190, 211, 254);
 }
 
 #social-container {
-    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    background-color: white;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     border-radius: 40px;
