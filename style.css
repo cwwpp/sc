@@ -47,5 +47,13 @@ html {
 
 .social a:hover {
     color: #0088a9;
-    transition: 0.4s;
+    transition: 0.3s;
+}
+
+.creator {
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(108, 108, 108);
+    padding-bottom: 20px;
 }
